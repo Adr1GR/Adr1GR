@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrián Gelmotto Ruiz</h1>
 <h3 align="center">A passionate fullstack developer student from Spain</h3>
-<img> align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif"</img>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adr1gr&label=Profile%20views&color=0e75b6&style=flat" alt="adr1gr" /> </p>
 
 - 📫 How to reach me **adriangelmotto@gmail.com**
@@ -17,4 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adr1gr&show_icons=true&locale=en" alt="adr1gr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adr1gr&" alt="adr1gr" /></p>
+
 
