@@ -9,6 +9,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adr1gr&show_icons=true&theme=dark&locale=en&layout=compact" alt="adr1gr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adr1gr&theme=dark" alt="adr1gr" /></p>
-
-
-
