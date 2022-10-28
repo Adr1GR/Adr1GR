@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 <h1 align="center">Hi 👋, I'm Adrián Gelmotto Ruiz</h1>
-<h3 align="center">A passionate fullstack developer student from Spain</h3>
+<h3 align="center">A passionate fullstack student from Spain</h3>
 <br>
 <br>
 📫 How to reach me **adriangelmotto@gmail.com**
