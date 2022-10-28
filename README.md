@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrián Gelmotto Ruiz</h1>
 <h3 align="center">A passionate fullstack developer student from Spain</h3>
-
+<br>
 📫 How to reach me **adriangelmotto@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
